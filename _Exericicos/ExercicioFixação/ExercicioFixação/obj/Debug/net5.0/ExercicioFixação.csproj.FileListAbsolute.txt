@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.exe
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.deps.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ref\ExercicioFixação.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\bin\Debug\net5.0\ExercicioFixação.pdb
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ref\ExercicioFixação.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.pdb
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExercicioFixação\ExercicioFixação\obj\Debug\net5.0\ExercicioFixação.genruntimeconfig.cache
