@@ -1,0 +1,16 @@
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.exe
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.deps.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.runtimeconfig.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.runtimeconfig.dev.json
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ref\ExericioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\bin\Debug\net5.0\ExericioEntradaDeDados.pdb
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.csproj.AssemblyReference.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.AssemblyInfo.cs
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ref\ExericioEntradaDeDados.dll
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.pdb
+C:\Users\Gabriel\Documents\Curso C#\ws-vs2019\_Exericicos\ExericioEntradaDeDados\ExericioEntradaDeDados\obj\Debug\net5.0\ExericioEntradaDeDados.genruntimeconfig.cache
